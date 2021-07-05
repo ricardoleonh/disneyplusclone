@@ -33,8 +33,8 @@ export default ImgSlider
 const Carousel = styled(Slider)`
     margin-top: 20px;
 
-    ul li button{
-        &:before{
+    ul li button {
+        &:before {
             font-size: 10px;
             color: rgb(150, 158, 171);
         }  

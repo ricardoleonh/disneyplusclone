@@ -17,6 +17,16 @@ const Container = styled.div`
     
 
     &:before {
-
+        background-position: top;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url("/images/login-background.jpg");
+        position: absolute;
+        content: "";
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        
     }
 `
