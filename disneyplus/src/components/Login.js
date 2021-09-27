@@ -4,7 +4,10 @@ import styled from 'styled-components'
 function Login() {
     return (
         <Container>
-            Login
+            <CTA>
+                <CTALogoOne src="/images/cta-logo-one.svg" />
+                <CTALogoTwo src="/images/cta-logo-two.png" />
+            </CTA>
         </Container>
     )
 }
@@ -27,6 +30,18 @@ const Container = styled.div`
         bottom: 0;
         left: 0;
         right: 0;
+        z-index: -1;
         
     }
+`
+const CTA = styled.div`
+
+`
+
+const CTALogoOne = styled.img`
+
+`
+
+const CTALogoTwo = styled.img`
+
 `
