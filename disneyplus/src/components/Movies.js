@@ -18,6 +18,18 @@ function Movies() {
                 <Wrap>
                     <img src ="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/09/The-Simpsons-on-a-Swing.png" />
                 </Wrap>
+                <Wrap>
+                    <img src ="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/09/The-Simpsons-on-a-Swing.png" />
+                </Wrap>
+                <Wrap>
+                    <img src ="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/09/The-Simpsons-on-a-Swing.png" />
+                </Wrap>
+                <Wrap>
+                    <img src ="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/09/The-Simpsons-on-a-Swing.png" />
+                </Wrap>
+                <Wrap>
+                    <img src ="https://static3.srcdn.com/wordpress/wp-content/uploads/2020/09/The-Simpsons-on-a-Swing.png" />
+                </Wrap>
 
             </Content>
         </Container>
